@@ -1,5 +1,3 @@
-# credit-risk-classification
-
 # Credit Risk Classification Report
 
 ## 📊 Overview of the Analysis
